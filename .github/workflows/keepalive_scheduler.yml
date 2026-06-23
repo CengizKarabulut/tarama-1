@@ -1,4 +1,4 @@
-name: Tarama Keepalive Scheduler
+name: 15 Dakika Botu Zamanlayici
 
 on:
   push:
